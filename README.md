@@ -9,3 +9,4 @@ Upload your test data
 
 ![uygulama_r](https://user-images.githubusercontent.com/64328842/210934398-3251beec-ba69-42cf-872c-1e3c201ecf13.png)
 
+deneme3.ipynb is used and then this app used model.h5 for predictions, that occured by deneme3.ipynb
